@@ -1,2 +1,2 @@
-# enterprise-airline-hub-and-competitor-intelligence-system
+# Enterprise Airline Hub & Competitor Intelligence System
 In progress
