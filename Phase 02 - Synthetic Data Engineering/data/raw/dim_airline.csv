@@ -1,0 +1,7 @@
+airline_id,airline_code,airline_name,country,headquarters,airline_type,alliance,hub_airport,founded_year,real_world_fleet_size,is_active
+1,6E,IndiGo,India,Gurugram,Low Cost,None,DEL,2006,420,True
+2,AI,Air India,India,Gurugram,Full Service,Star Alliance,DEL,1932,215,True
+3,QP,Akasa Air,India,Mumbai,Low Cost,None,BOM,2021,35,True
+4,EK,Emirates,United Arab Emirates,Dubai,Full Service,None,DXB,1985,260,True
+5,SQ,Singapore Airlines,Singapore,Singapore,Full Service,Star Alliance,SIN,1972,200,True
+6,QR,Qatar Airways,Qatar,Doha,Full Service,Oneworld,DOH,1993,250,True
