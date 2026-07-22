@@ -1,0 +1,161 @@
+aircraft_id,airline_id,airline_name,registration_number,manufacturer,aircraft_model,aircraft_family,seating_capacity,manufacture_year,aircraft_age,fuel_efficiency,aircraft_status
+1,1,IndiGo,VT-001,Airbus,A320neo,Narrow Body,186,2021,5,4.15,Active
+2,1,IndiGo,VT-002,Airbus,A320neo,Narrow Body,186,2020,6,4.11,Active
+3,1,IndiGo,VT-003,Airbus,A321neo,Narrow Body,232,2020,6,4.08,Active
+4,1,IndiGo,VT-004,Airbus,A320neo,Narrow Body,186,2024,2,4.39,Active
+5,1,IndiGo,VT-005,Airbus,A321neo,Narrow Body,232,2020,6,3.94,Active
+6,1,IndiGo,VT-006,Airbus,A321neo,Narrow Body,232,2023,3,3.94,Active
+7,1,IndiGo,VT-007,Airbus,A321neo,Narrow Body,232,2017,9,3.99,Active
+8,1,IndiGo,VT-008,Airbus,A321neo,Narrow Body,232,2025,1,4.18,Maintenance
+9,1,IndiGo,VT-009,Airbus,A320neo,Narrow Body,186,2018,8,4.19,Active
+10,1,IndiGo,VT-010,Airbus,A321neo,Narrow Body,232,2020,6,4.2,Active
+11,1,IndiGo,VT-011,Airbus,A320neo,Narrow Body,186,2019,7,4.18,Active
+12,1,IndiGo,VT-012,Airbus,A321neo,Narrow Body,232,2018,8,4.02,Active
+13,1,IndiGo,VT-013,Airbus,A320neo,Narrow Body,186,2020,6,4.14,Active
+14,1,IndiGo,VT-014,Airbus,A321neo,Narrow Body,232,2024,2,4.14,Active
+15,1,IndiGo,VT-015,Airbus,A320neo,Narrow Body,186,2024,2,4.07,Active
+16,1,IndiGo,VT-016,Airbus,A321neo,Narrow Body,232,2022,4,3.82,Active
+17,1,IndiGo,VT-017,Airbus,A320neo,Narrow Body,186,2019,7,4.31,Active
+18,1,IndiGo,VT-018,Airbus,A321neo,Narrow Body,232,2020,6,3.9,Active
+19,1,IndiGo,VT-019,Airbus,A320neo,Narrow Body,186,2025,1,4.21,Active
+20,1,IndiGo,VT-020,Airbus,A321neo,Narrow Body,232,2021,5,4.13,Active
+21,1,IndiGo,VT-021,Airbus,A321neo,Narrow Body,232,2024,2,4.14,Active
+22,1,IndiGo,VT-022,Airbus,A320neo,Narrow Body,186,2021,5,4.36,Active
+23,1,IndiGo,VT-023,Airbus,A320neo,Narrow Body,186,2021,5,4.17,Active
+24,1,IndiGo,VT-024,Airbus,A320neo,Narrow Body,186,2021,5,4.3,Active
+25,1,IndiGo,VT-025,Airbus,A321neo,Narrow Body,232,2020,6,3.95,Active
+26,1,IndiGo,VT-026,Airbus,A321neo,Narrow Body,232,2024,2,4.2,Active
+27,1,IndiGo,VT-027,Airbus,A320neo,Narrow Body,186,2023,3,4.34,Active
+28,1,IndiGo,VT-028,Airbus,A320neo,Narrow Body,186,2021,5,4.35,Active
+29,1,IndiGo,VT-029,Airbus,A321neo,Narrow Body,232,2019,7,4.01,Active
+30,1,IndiGo,VT-030,Airbus,A321neo,Narrow Body,232,2021,5,3.86,Maintenance
+31,1,IndiGo,VT-031,Airbus,A321neo,Narrow Body,232,2018,8,4.05,Active
+32,1,IndiGo,VT-032,Airbus,A321neo,Narrow Body,232,2021,5,4.08,Active
+33,1,IndiGo,VT-033,Airbus,A320neo,Narrow Body,186,2021,5,4.27,Active
+34,1,IndiGo,VT-034,Airbus,A320neo,Narrow Body,186,2019,7,4.17,Maintenance
+35,1,IndiGo,VT-035,Airbus,A320neo,Narrow Body,186,2022,4,4.33,Active
+36,2,Air India,AI-001,Boeing,B777-300ER,Wide Body,360,2020,6,3.17,Active
+37,2,Air India,AI-002,Boeing,B787-8 Dreamliner,Wide Body,290,2016,10,3.41,Active
+38,2,Air India,AI-003,Airbus,A350-900,Wide Body,320,2018,8,3.46,Active
+39,2,Air India,AI-004,Boeing,B787-8 Dreamliner,Wide Body,290,2019,7,3.5,Active
+40,2,Air India,AI-005,Boeing,B777-300ER,Wide Body,360,2014,12,3.05,Active
+41,2,Air India,AI-006,Airbus,A320neo,Narrow Body,186,2021,5,4.23,Active
+42,2,Air India,AI-007,Boeing,B787-8 Dreamliner,Wide Body,290,2019,7,3.35,Active
+43,2,Air India,AI-008,Airbus,A320neo,Narrow Body,186,2018,8,4.24,Active
+44,2,Air India,AI-009,Airbus,A350-900,Wide Body,320,2023,3,3.41,Active
+45,2,Air India,AI-010,Boeing,B787-8 Dreamliner,Wide Body,290,2021,5,3.27,Active
+46,2,Air India,AI-011,Boeing,B787-8 Dreamliner,Wide Body,290,2025,1,3.26,Active
+47,2,Air India,AI-012,Airbus,A350-900,Wide Body,320,2025,1,3.38,Maintenance
+48,2,Air India,AI-013,Boeing,B777-300ER,Wide Body,360,2007,19,3.04,Active
+49,2,Air India,AI-014,Airbus,A320neo,Narrow Body,186,2018,8,4.19,Active
+50,2,Air India,AI-015,Airbus,A320neo,Narrow Body,186,2021,5,4.4,Active
+51,2,Air India,AI-016,Boeing,B777-300ER,Wide Body,360,2025,1,2.97,Active
+52,2,Air India,AI-017,Boeing,B787-8 Dreamliner,Wide Body,290,2013,13,3.58,Active
+53,2,Air India,AI-018,Airbus,A320neo,Narrow Body,186,2019,7,4.24,Active
+54,2,Air India,AI-019,Boeing,B777-300ER,Wide Body,360,2019,7,2.99,Active
+55,2,Air India,AI-020,Boeing,B787-8 Dreamliner,Wide Body,290,2014,12,3.21,Active
+56,2,Air India,AI-021,Boeing,B787-8 Dreamliner,Wide Body,290,2017,9,3.26,Active
+57,2,Air India,AI-022,Airbus,A320neo,Narrow Body,186,2018,8,4.06,Active
+58,2,Air India,AI-023,Boeing,B787-8 Dreamliner,Wide Body,290,2015,11,3.46,Active
+59,2,Air India,AI-024,Boeing,B777-300ER,Wide Body,360,2008,18,2.97,Active
+60,2,Air India,AI-025,Airbus,A320neo,Narrow Body,186,2022,4,4.25,Active
+61,2,Air India,AI-026,Airbus,A320neo,Narrow Body,186,2023,3,4.17,Maintenance
+62,2,Air India,AI-027,Airbus,A350-900,Wide Body,320,2021,5,3.58,Active
+63,2,Air India,AI-028,Airbus,A320neo,Narrow Body,186,2021,5,4.27,Active
+64,2,Air India,AI-029,Airbus,A320neo,Narrow Body,186,2023,3,4.18,Active
+65,2,Air India,AI-030,Boeing,B787-8 Dreamliner,Wide Body,290,2022,4,3.47,Active
+66,3,Akasa Air,AK-001,Boeing,B737 MAX 8,Narrow Body,197,2019,7,4.11,Active
+67,3,Akasa Air,AK-002,Boeing,B737 MAX 8,Narrow Body,197,2022,4,4.13,Maintenance
+68,3,Akasa Air,AK-003,Boeing,B737 MAX 8,Narrow Body,197,2025,1,4.2,Active
+69,3,Akasa Air,AK-004,Boeing,B737 MAX 8,Narrow Body,197,2022,4,4.15,Active
+70,3,Akasa Air,AK-005,Boeing,B737 MAX 8,Narrow Body,197,2018,8,4.08,Active
+71,3,Akasa Air,AK-006,Boeing,B737 MAX 8,Narrow Body,197,2023,3,4.13,Active
+72,3,Akasa Air,AK-007,Boeing,B737 MAX 8,Narrow Body,197,2018,8,4.04,Active
+73,3,Akasa Air,AK-008,Boeing,B737 MAX 8,Narrow Body,197,2024,2,4.21,Active
+74,3,Akasa Air,AK-009,Boeing,B737 MAX 8,Narrow Body,197,2023,3,4.06,Active
+75,3,Akasa Air,AK-010,Boeing,B737 MAX 8,Narrow Body,197,2023,3,4.27,Active
+76,3,Akasa Air,AK-011,Boeing,B737 MAX 8,Narrow Body,197,2024,2,4.02,Active
+77,3,Akasa Air,AK-012,Boeing,B737 MAX 8,Narrow Body,197,2020,6,4.11,Active
+78,3,Akasa Air,AK-013,Boeing,B737 MAX 8,Narrow Body,197,2020,6,3.91,Active
+79,3,Akasa Air,AK-014,Boeing,B737 MAX 8,Narrow Body,197,2025,1,4.2,Active
+80,3,Akasa Air,AK-015,Boeing,B737 MAX 8,Narrow Body,197,2023,3,3.9,Active
+81,4,Emirates,A6-001,Airbus,A350-900,Wide Body,320,2016,10,3.65,Active
+82,4,Emirates,A6-002,Boeing,B777-300ER,Wide Body,360,2013,13,2.96,Active
+83,4,Emirates,A6-003,Boeing,B777-300ER,Wide Body,360,2025,1,2.81,Active
+84,4,Emirates,A6-004,Boeing,B777-300ER,Wide Body,360,2005,21,3.18,Active
+85,4,Emirates,A6-005,Airbus,A350-900,Wide Body,320,2019,7,3.48,Active
+86,4,Emirates,A6-006,Boeing,B777-300ER,Wide Body,360,2007,19,3.02,Active
+87,4,Emirates,A6-007,Boeing,B777-300ER,Wide Body,360,2024,2,3.02,Active
+88,4,Emirates,A6-008,Boeing,B777-300ER,Wide Body,360,2009,17,2.87,Active
+89,4,Emirates,A6-009,Airbus,A350-900,Wide Body,320,2022,4,3.68,Active
+90,4,Emirates,A6-010,Airbus,A350-900,Wide Body,320,2016,10,3.68,Active
+91,4,Emirates,A6-011,Airbus,A350-900,Wide Body,320,2019,7,3.68,Active
+92,4,Emirates,A6-012,Boeing,B777-300ER,Wide Body,360,2012,14,2.96,Active
+93,4,Emirates,A6-013,Boeing,B777-300ER,Wide Body,360,2022,4,3.07,Active
+94,4,Emirates,A6-014,Airbus,A350-900,Wide Body,320,2021,5,3.33,Active
+95,4,Emirates,A6-015,Airbus,A350-900,Wide Body,320,2015,11,3.7,Active
+96,4,Emirates,A6-016,Boeing,B777-300ER,Wide Body,360,2012,14,2.87,Active
+97,4,Emirates,A6-017,Boeing,B777-300ER,Wide Body,360,2015,11,3.11,Active
+98,4,Emirates,A6-018,Airbus,A350-900,Wide Body,320,2023,3,3.33,Active
+99,4,Emirates,A6-019,Airbus,A350-900,Wide Body,320,2025,1,3.39,Active
+100,4,Emirates,A6-020,Boeing,B777-300ER,Wide Body,360,2019,7,2.87,Active
+101,4,Emirates,A6-021,Boeing,B777-300ER,Wide Body,360,2006,20,2.86,Active
+102,4,Emirates,A6-022,Airbus,A350-900,Wide Body,320,2021,5,3.55,Active
+103,4,Emirates,A6-023,Boeing,B777-300ER,Wide Body,360,2007,19,3.19,Active
+104,4,Emirates,A6-024,Airbus,A350-900,Wide Body,320,2025,1,3.31,Active
+105,4,Emirates,A6-025,Boeing,B777-300ER,Wide Body,360,2011,15,3.1,Active
+106,4,Emirates,A6-026,Boeing,B777-300ER,Wide Body,360,2016,10,3.09,Active
+107,4,Emirates,A6-027,Boeing,B777-300ER,Wide Body,360,2009,17,2.84,Active
+108,4,Emirates,A6-028,Airbus,A350-900,Wide Body,320,2020,6,3.36,Active
+109,4,Emirates,A6-029,Airbus,A350-900,Wide Body,320,2018,8,3.61,Active
+110,4,Emirates,A6-030,Airbus,A350-900,Wide Body,320,2020,6,3.44,Active
+111,5,Singapore Airlines,9V-001,Boeing,B787-8 Dreamliner,Wide Body,290,2022,4,3.48,Active
+112,5,Singapore Airlines,9V-002,Airbus,A350-900,Wide Body,320,2023,3,3.35,Active
+113,5,Singapore Airlines,9V-003,Airbus,A350-900,Wide Body,320,2025,1,3.36,Active
+114,5,Singapore Airlines,9V-004,Boeing,B787-8 Dreamliner,Wide Body,290,2025,1,3.52,Active
+115,5,Singapore Airlines,9V-005,Boeing,B787-8 Dreamliner,Wide Body,290,2013,13,3.53,Active
+116,5,Singapore Airlines,9V-006,Airbus,A350-900,Wide Body,320,2015,11,3.37,Active
+117,5,Singapore Airlines,9V-007,Boeing,B787-8 Dreamliner,Wide Body,290,2015,11,3.53,Active
+118,5,Singapore Airlines,9V-008,Airbus,A350-900,Wide Body,320,2018,8,3.41,Active
+119,5,Singapore Airlines,9V-009,Airbus,A350-900,Wide Body,320,2017,9,3.52,Active
+120,5,Singapore Airlines,9V-010,Boeing,B787-8 Dreamliner,Wide Body,290,2024,2,3.54,Active
+121,5,Singapore Airlines,9V-011,Boeing,B787-8 Dreamliner,Wide Body,290,2014,12,3.53,Active
+122,5,Singapore Airlines,9V-012,Airbus,A350-900,Wide Body,320,2018,8,3.36,Active
+123,5,Singapore Airlines,9V-013,Airbus,A350-900,Wide Body,320,2023,3,3.61,Active
+124,5,Singapore Airlines,9V-014,Airbus,A350-900,Wide Body,320,2024,2,3.39,Active
+125,5,Singapore Airlines,9V-015,Boeing,B787-8 Dreamliner,Wide Body,290,2024,2,3.35,Active
+126,5,Singapore Airlines,9V-016,Boeing,B787-8 Dreamliner,Wide Body,290,2015,11,3.49,Active
+127,5,Singapore Airlines,9V-017,Boeing,B787-8 Dreamliner,Wide Body,290,2019,7,3.41,Active
+128,5,Singapore Airlines,9V-018,Airbus,A350-900,Wide Body,320,2020,6,3.54,Active
+129,5,Singapore Airlines,9V-019,Airbus,A350-900,Wide Body,320,2024,2,3.31,Active
+130,5,Singapore Airlines,9V-020,Boeing,B787-8 Dreamliner,Wide Body,290,2016,10,3.29,Active
+131,5,Singapore Airlines,9V-021,Boeing,B787-8 Dreamliner,Wide Body,290,2025,1,3.55,Active
+132,5,Singapore Airlines,9V-022,Boeing,B787-8 Dreamliner,Wide Body,290,2017,9,3.24,Active
+133,5,Singapore Airlines,9V-023,Airbus,A350-900,Wide Body,320,2021,5,3.61,Active
+134,5,Singapore Airlines,9V-024,Boeing,B787-8 Dreamliner,Wide Body,290,2021,5,3.56,Active
+135,5,Singapore Airlines,9V-025,Boeing,B787-8 Dreamliner,Wide Body,290,2016,10,3.22,Active
+136,6,Qatar Airways,A7-001,Airbus,A350-900,Wide Body,320,2023,3,3.68,Active
+137,6,Qatar Airways,A7-002,Airbus,A350-900,Wide Body,320,2018,8,3.42,Active
+138,6,Qatar Airways,A7-003,Boeing,B787-8 Dreamliner,Wide Body,290,2012,14,3.34,Active
+139,6,Qatar Airways,A7-004,Boeing,B787-8 Dreamliner,Wide Body,290,2019,7,3.21,Active
+140,6,Qatar Airways,A7-005,Airbus,A350-900,Wide Body,320,2025,1,3.53,Active
+141,6,Qatar Airways,A7-006,Boeing,B777-300ER,Wide Body,360,2007,19,2.99,Active
+142,6,Qatar Airways,A7-007,Boeing,B787-8 Dreamliner,Wide Body,290,2025,1,3.25,Active
+143,6,Qatar Airways,A7-008,Airbus,A350-900,Wide Body,320,2022,4,3.56,Active
+144,6,Qatar Airways,A7-009,Airbus,A350-900,Wide Body,320,2025,1,3.32,Active
+145,6,Qatar Airways,A7-010,Airbus,A350-900,Wide Body,320,2024,2,3.46,Active
+146,6,Qatar Airways,A7-011,Boeing,B777-300ER,Wide Body,360,2023,3,2.9,Active
+147,6,Qatar Airways,A7-012,Boeing,B777-300ER,Wide Body,360,2016,10,3.11,Active
+148,6,Qatar Airways,A7-013,Boeing,B787-8 Dreamliner,Wide Body,290,2012,14,3.44,Active
+149,6,Qatar Airways,A7-014,Boeing,B777-300ER,Wide Body,360,2008,18,3.02,Active
+150,6,Qatar Airways,A7-015,Boeing,B787-8 Dreamliner,Wide Body,290,2022,4,3.31,Active
+151,6,Qatar Airways,A7-016,Airbus,A350-900,Wide Body,320,2025,1,3.4,Active
+152,6,Qatar Airways,A7-017,Boeing,B787-8 Dreamliner,Wide Body,290,2021,5,3.32,Active
+153,6,Qatar Airways,A7-018,Boeing,B777-300ER,Wide Body,360,2017,9,3.13,Active
+154,6,Qatar Airways,A7-019,Boeing,B777-300ER,Wide Body,360,2005,21,2.91,Active
+155,6,Qatar Airways,A7-020,Airbus,A350-900,Wide Body,320,2018,8,3.47,Active
+156,6,Qatar Airways,A7-021,Airbus,A350-900,Wide Body,320,2017,9,3.64,Active
+157,6,Qatar Airways,A7-022,Airbus,A350-900,Wide Body,320,2021,5,3.44,Active
+158,6,Qatar Airways,A7-023,Boeing,B787-8 Dreamliner,Wide Body,290,2024,2,3.49,Active
+159,6,Qatar Airways,A7-024,Airbus,A350-900,Wide Body,320,2016,10,3.35,Maintenance
+160,6,Qatar Airways,A7-025,Airbus,A350-900,Wide Body,320,2025,1,3.42,Active
