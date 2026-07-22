@@ -1,0 +1,265 @@
+bridge_id,airline_id,airline_name,route_id
+1,3,Akasa Air,1
+2,1,IndiGo,1
+3,2,Air India,1
+4,1,IndiGo,2
+5,2,Air India,2
+6,3,Akasa Air,2
+7,3,Akasa Air,3
+8,2,Air India,3
+9,1,IndiGo,3
+10,3,Akasa Air,4
+11,1,IndiGo,4
+12,1,IndiGo,5
+13,2,Air India,5
+14,3,Akasa Air,5
+15,2,Air India,6
+16,3,Akasa Air,6
+17,1,IndiGo,7
+18,2,Air India,7
+19,3,Akasa Air,7
+20,3,Akasa Air,8
+21,1,IndiGo,8
+22,2,Air India,8
+23,1,IndiGo,9
+24,3,Akasa Air,9
+25,2,Air India,9
+26,2,Air India,10
+27,3,Akasa Air,10
+28,3,Akasa Air,11
+29,1,IndiGo,11
+30,2,Air India,11
+31,1,IndiGo,12
+32,3,Akasa Air,12
+33,2,Air India,12
+34,2,Air India,13
+35,1,IndiGo,13
+36,3,Akasa Air,13
+37,3,Akasa Air,14
+38,2,Air India,14
+39,1,IndiGo,14
+40,3,Akasa Air,15
+41,2,Air India,15
+42,1,IndiGo,15
+43,3,Akasa Air,16
+44,1,IndiGo,16
+45,2,Air India,16
+46,2,Air India,17
+47,3,Akasa Air,17
+48,3,Akasa Air,18
+49,1,IndiGo,18
+50,2,Air India,18
+51,3,Akasa Air,19
+52,1,IndiGo,19
+53,2,Air India,19
+54,1,IndiGo,20
+55,2,Air India,20
+56,1,IndiGo,21
+57,3,Akasa Air,21
+58,2,Air India,21
+59,3,Akasa Air,22
+60,2,Air India,22
+61,3,Akasa Air,23
+62,1,IndiGo,23
+63,2,Air India,23
+64,3,Akasa Air,24
+65,1,IndiGo,24
+66,2,Air India,24
+67,2,Air India,25
+68,3,Akasa Air,25
+69,1,IndiGo,25
+70,3,Akasa Air,26
+71,2,Air India,26
+72,2,Air India,27
+73,3,Akasa Air,27
+74,1,IndiGo,27
+75,3,Akasa Air,28
+76,1,IndiGo,28
+77,2,Air India,28
+78,2,Air India,29
+79,3,Akasa Air,29
+80,3,Akasa Air,30
+81,2,Air India,30
+82,3,Akasa Air,31
+83,1,IndiGo,31
+84,1,IndiGo,32
+85,2,Air India,32
+86,3,Akasa Air,32
+87,2,Air India,33
+88,3,Akasa Air,33
+89,1,IndiGo,34
+90,2,Air India,34
+91,3,Akasa Air,34
+92,3,Akasa Air,35
+93,1,IndiGo,35
+94,2,Air India,35
+95,2,Air India,36
+96,3,Akasa Air,36
+97,2,Air India,37
+98,3,Akasa Air,37
+99,3,Akasa Air,38
+100,1,IndiGo,38
+101,2,Air India,38
+102,2,Air India,39
+103,1,IndiGo,39
+104,1,IndiGo,40
+105,2,Air India,40
+106,3,Akasa Air,40
+107,2,Air India,41
+108,3,Akasa Air,41
+109,1,IndiGo,41
+110,1,IndiGo,42
+111,2,Air India,42
+112,3,Akasa Air,43
+113,2,Air India,43
+114,2,Air India,44
+115,3,Akasa Air,44
+116,1,IndiGo,45
+117,2,Air India,45
+118,3,Akasa Air,46
+119,2,Air India,46
+120,1,IndiGo,46
+121,2,Air India,47
+122,3,Akasa Air,47
+123,1,IndiGo,47
+124,3,Akasa Air,48
+125,1,IndiGo,48
+126,2,Air India,48
+127,1,IndiGo,49
+128,3,Akasa Air,49
+129,5,Singapore Airlines,49
+130,2,Air India,50
+131,1,IndiGo,50
+132,6,Qatar Airways,50
+133,5,Singapore Airlines,51
+134,3,Akasa Air,51
+135,2,Air India,52
+136,1,IndiGo,52
+137,5,Singapore Airlines,53
+138,3,Akasa Air,53
+139,2,Air India,53
+140,3,Akasa Air,54
+141,1,IndiGo,54
+142,3,Akasa Air,55
+143,2,Air India,55
+144,1,IndiGo,56
+145,5,Singapore Airlines,56
+146,3,Akasa Air,57
+147,2,Air India,57
+148,2,Air India,58
+149,1,IndiGo,58
+150,3,Akasa Air,58
+151,2,Air India,59
+152,3,Akasa Air,59
+153,3,Akasa Air,60
+154,1,IndiGo,60
+155,2,Air India,60
+156,1,IndiGo,61
+157,6,Qatar Airways,61
+158,3,Akasa Air,61
+159,2,Air India,61
+160,3,Akasa Air,62
+161,4,Emirates,62
+162,2,Air India,63
+163,1,IndiGo,63
+164,2,Air India,64
+165,1,IndiGo,64
+166,2,Air India,65
+167,3,Akasa Air,65
+168,1,IndiGo,65
+169,2,Air India,66
+170,1,IndiGo,66
+171,3,Akasa Air,67
+172,5,Singapore Airlines,67
+173,1,IndiGo,67
+174,2,Air India,67
+175,1,IndiGo,68
+176,2,Air India,68
+177,3,Akasa Air,68
+178,3,Akasa Air,69
+179,1,IndiGo,69
+180,1,IndiGo,70
+181,3,Akasa Air,70
+182,1,IndiGo,71
+183,5,Singapore Airlines,71
+184,3,Akasa Air,71
+185,3,Akasa Air,72
+186,2,Air India,72
+187,1,IndiGo,73
+188,3,Akasa Air,73
+189,2,Air India,73
+190,5,Singapore Airlines,73
+191,2,Air India,74
+192,3,Akasa Air,74
+193,3,Akasa Air,75
+194,2,Air India,75
+195,1,IndiGo,75
+196,1,IndiGo,76
+197,3,Akasa Air,76
+198,2,Air India,76
+199,3,Akasa Air,77
+200,1,IndiGo,77
+201,2,Air India,78
+202,3,Akasa Air,78
+203,1,IndiGo,78
+204,4,Emirates,79
+205,1,IndiGo,79
+206,2,Air India,79
+207,3,Akasa Air,79
+208,3,Akasa Air,80
+209,1,IndiGo,80
+210,1,IndiGo,81
+211,2,Air India,81
+212,3,Akasa Air,82
+213,2,Air India,82
+214,2,Air India,83
+215,3,Akasa Air,83
+216,1,IndiGo,83
+217,3,Akasa Air,84
+218,1,IndiGo,84
+219,2,Air India,84
+220,3,Akasa Air,85
+221,1,IndiGo,85
+222,1,IndiGo,86
+223,2,Air India,86
+224,1,IndiGo,87
+225,6,Qatar Airways,87
+226,2,Air India,87
+227,1,IndiGo,88
+228,3,Akasa Air,88
+229,3,Akasa Air,89
+230,1,IndiGo,89
+231,2,Air India,89
+232,1,IndiGo,90
+233,3,Akasa Air,90
+234,1,IndiGo,91
+235,3,Akasa Air,91
+236,1,IndiGo,92
+237,3,Akasa Air,92
+238,2,Air India,92
+239,1,IndiGo,93
+240,6,Qatar Airways,93
+241,1,IndiGo,94
+242,3,Akasa Air,94
+243,2,Air India,95
+244,3,Akasa Air,95
+245,2,Air India,96
+246,1,IndiGo,96
+247,3,Akasa Air,96
+248,4,Emirates,97
+249,6,Qatar Airways,97
+250,4,Emirates,98
+251,4,Emirates,99
+252,4,Emirates,100
+253,6,Qatar Airways,102
+254,5,Singapore Airlines,106
+255,4,Emirates,107
+256,5,Singapore Airlines,108
+257,4,Emirates,109
+258,6,Qatar Airways,111
+259,4,Emirates,112
+260,4,Emirates,114
+261,6,Qatar Airways,115
+262,5,Singapore Airlines,116
+263,6,Qatar Airways,116
+264,6,Qatar Airways,119
